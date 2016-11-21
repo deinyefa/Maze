@@ -25,4 +25,10 @@ public class Key : MonoBehaviour
 		Destroy (gameObject);
     }
 
+    public void KeyAnimation ()
+    {
+        Animator keyAnim = GetComponent<Animator>();
+
+        keyAnim.SetBool("detected key", true);
+    }
 }
