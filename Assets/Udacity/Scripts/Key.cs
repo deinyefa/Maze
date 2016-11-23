@@ -8,6 +8,8 @@ public class Key : MonoBehaviour
 	public GameObject keyPoofPrefab;
 	public Door door;
 
+    public static bool pickedUp = false;
+
 	void Update()
 	{
 		//Bonus: Key Animation
@@ -20,7 +22,8 @@ public class Key : MonoBehaviour
         // Call the Unlock() method on the Door
         // Destroy the key. Check the Unity documentation on how to use Destroy
 
-		Instantiate (keyPoofPrefab, new Vector3 (0.09f, 12.01f, 47.22f), Quaternion.Euler (-90f, 0, 0));
+		Instantiate (keyPoofPrefab, new Vector3 (-7.94f, 2.31f, -40.45f), Quaternion.Euler(-90f, 0, 0));
+        pickedUp = true;
 		door.Unlock ();
 		Destroy (gameObject);
     }
