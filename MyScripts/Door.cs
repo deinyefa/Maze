@@ -41,7 +41,7 @@ public class Door : MonoBehaviour
 
     public void ClickedUnlockedDoor ()
     {
-        if (locked == false)
+        if (!locked)
         {
             anim.SetBool("unlocked", true);
             audioSource.PlayOneShot(unlockedDoorSound, audioVolume);
@@ -51,7 +51,7 @@ public class Door : MonoBehaviour
 
     public void ClickedLockedDoor ()
     {
-        if (locked != false)
+        if (locked)
         {
             audioSource.PlayOneShot(lockedDoorSound, audioVolume);
         }
