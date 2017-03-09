@@ -15,6 +15,7 @@ Notice the different color walls and the temple in the background…
 
 ## Persona
 ![Eve](https://cloud.githubusercontent.com/assets/18746993/22293586/304b1a20-e2de-11e6-9577-4496042806f6.png)
+
 Eve
 >My persona for this project was Eve, a 21-year-old university student who knows little about VR. She is a free spirit who is always 
 >interested in trying new things. Eve’s favorite quote is, “Life’s too short.”, so she lives in the moment.
@@ -24,9 +25,11 @@ Here are some sketches I made to lay the groundwork for the design of the maze. 
 too complicated!
 
 ![complex](https://cloud.githubusercontent.com/assets/18746993/23768139/0367bd34-04d9-11e7-9c59-898859467ab0.JPG)
+
 complex
 
 ![notcomplex](https://cloud.githubusercontent.com/assets/18746993/23768182/2505d5f2-04d9-11e7-8361-c9de9faeb993.JPG)
+
 not complex
 
 # User Testing
@@ -41,6 +44,7 @@ Below are some screenshots of the final game design. The start of the game is th
 entrance into the maze
 
 ![maze-exit](https://cloud.githubusercontent.com/assets/18746993/23768279/7e32db98-04d9-11e7-9263-ad7dd8930f22.PNG)
+
 exit from the maze — notice the key on the wall
 
 ![temple](https://cloud.githubusercontent.com/assets/18746993/23768310/91ce9188-04d9-11e7-81cf-a5ee2e7b098c.PNG)
@@ -53,4 +57,4 @@ MazeVR is tailored to be a very simple mobile VR game. Features include audio an
 To take this game to another level, including a night-like skybox to add some character and a time limit to make things more interesting are some ideas.
 
 # Link to additional work
-Please visit [Medium page](https://medium.com/@df.eporwei "Medium page") to see more from me!
+Please visit my [Medium page](https://medium.com/@df.eporwei "Medium page") to see more from me!
