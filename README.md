@@ -6,6 +6,7 @@ One design consideration I had to make was the size of the play area. Seeing as 
 
 # MazeVR 
 This project was completed thanks to the continuous iterative process used throughout its development to steadily improve gameplay.
+
 ![Scene](https://cloud.githubusercontent.com/assets/18746993/23767919/4e82f35c-04d8-11e7-8651-27147d946afc.PNG)
 Notice the different color walls and the temple in the background…
 
